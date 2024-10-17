@@ -1,4 +1,4 @@
-# Project Title
+# FAT2FIT
 
 <p align="center">
   <a href="https://laravel.com" target="_blank">
