@@ -14,13 +14,13 @@
 </p>
 
 ## About the Project
-Laravel is a web application framework with expressive, elegant syntax. We believe development must...
+Developed an commerce website using Laravel that promotes physical fitness and helps the user to be more fit by providing videos, calculates bmi and consultation
 
 
 ![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image63.png)
 
 
-![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image63.png)
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image64.png)
 
 
 
