@@ -23,7 +23,20 @@ Developed an commerce website using Laravel that promotes physical fitness and h
 ![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image64.png)
 
 
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image65.png)
+
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image66.png)
 
 
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image67.png)
+
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image68.png)
+
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image69.png)
+
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image70.png)
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image71.png)
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image72.png)
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image73.png)
 
 
