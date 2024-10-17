@@ -14,11 +14,13 @@
 </p>
 
 ## About the Project
+Laravel is a web application framework with expressive, elegant syntax. We believe development must...
+
 
 ![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image63.png)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must...
 
+![Description](https://github.com/TarannumAhmedNowshin/fat2fit/blob/TarannumAhmedNowshin-patch-1-1/image63.png)
 
 
 
